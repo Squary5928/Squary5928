@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Squary5928
 - 🖥 I’m interested in Programming!
 - 🌱 I’m currently learning Python and Shell scripting!
-- 📫 Email me at squary5928@gmail.com for any queries/improvements in my code!
+- 🏡 I'm currently living in a house!
 - ⚡ Fun fact: I had constipation yesterday! 🌮🚽
 
 <!---
